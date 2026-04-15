@@ -1,140 +1,154 @@
-# Проверите своје знање
+# Provjerite svoje znanje
 
 ```{mchoice}
-:answer1: Збир свих података у табели
-:answer2: Оса или тачка обртања — табела мења угао погледа на податке 
-:answer3: Назив програмског језика за анализу података
-:answer4: Табела која аутоматски црта графиконе
+:answer1: Zbroj svih podataka u tablici
+:answer2: Osa ili točka obrata — tablica mijenja kut pogleda na podatke 
+:answer3: Naziv programskog jezika za analizu podataka
+:answer4: Tablica koja automatski crta grafikone
 :correct: 2
 
-1. Шта значи реч 'пивот' у контексту пивот табела?
+1. Što znači riječ 'pivot' u kontekstu pivot tablica?
+
 ```
 
 ```{mchoice}
-:answer1: Стубичасти графикон
-:answer2: Линијски графикон
-:answer3: Пита (кружни) графикон
-:answer4: Структурни графикон са прелазним сегментима
+:answer1: Stupčasti grafikon
+:answer2: Linijski grafikon
+:answer3: Torta (kružni) grafikon
+:answer4: Strukturni grafikon s prijelaznim segmentima
 :correct: 3
 
-2. Који тип графикона је најпогоднији за приказ удела појединих категорија у целини?
+2. Koji je tip grafikona najpogodniji za prikaz udjela pojedinih kategorija u cjelini?
+
 ```
 
 ```{mchoice}
-:answer1: Тачно
-:answer2: Нетачно
+:answer1: Točno
+:answer2: Netočno
 :correct: 2
 
-3. Када додамо нове редове у оригиналну табелу података, пивот табела се аутоматски ажурира.
+3. Kada dodamo nove retke u izvornu tablicu podataka, pivot tablica se automatski ažurira.
+
 ```
 
 ```{mchoice}
-:answer1: Пивот табела служи искључиво за цртање компликованих графикона
-:answer2: Пивот табела омогућава брзу реорганизацију и сумирање великих количина података без формула
-:answer3: Пивот табела омогућава аутоматско форматирање боја у ћелијама
-:answer4: Пивот табела аутоматски поправља словне грешке у изворном фајлу
+:answer1: Pivot tablica služi isključivo za crtanje složenih grafikona
+:answer2: Pivot tablica omogućuje brzu reorganizaciju i sažimanje velikih količina podataka bez formula
+:answer3: Pivot tablica omogućuje automatsko oblikovanje boja u ćelijama
+:answer4: Pivot tablica automatski ispravlja slovne pogreške u izvornom datoteci
 :correct: 1
 
-4. Која је главна предност пивот табеле у односу на обичну табелу са подацима?
+4. Koja je glavna prednost pivot tablice u odnosu na običnu tablicu s podacima?
+
 ```
 
 ```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: Retci (Rows)
+:answer2: Stupci (Columns)
+:answer3: Vrijednosti (Values)
+:answer4: Filtri (Filters)
 :correct: 2
 
-5. Где у едитору убацујете polje 'Спавање' ако хоћете 
-да категорије спавања буду у левој колони табеле?
+5. Gdje u uređivaču umećete polje 'Spavanje' ako želite 
+da kategorije spavanja budu u lijevom stupcu tablice?
+
 ```
 
 ```{mchoice}
-:answer1: Различито писање успорава рачунар
-:answer2: Пивот табела сваку варијанту писања третира као посебну категорију 
-:answer3: Пивот табела чита само одређене фонтове
-:answer4: Excel аутоматски конвертује све текстове у бројеве
+:answer1: Različito pisanje usporava računalo
+:answer2: Pivot tablica svaku varijantu pisanja tretira kao posebnu kategoriju 
+:answer3: Pivot tablica čita samo određene fontove
+:answer4: Excel automatski pretvara sve tekstove u brojeve
 :correct: 2
 
-6. Зашто је важно да у оригиналној табели сви одговори буду писани на исти начин?
+6. Zašto je važno da u izvornoj tablici svi odgovori budu pisani na isti način?
+
 ```
 
 ```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: Retci (Rows)
+:answer2: Stupci (Columns)
+:answer3: Vrijednosti (Values)
+:answer4: Filtri (Filters)
 :correct: 3
 
-7. У које зону пивот табеле би превукао/превукла поље "Цена" ако желиш да израчунаш укупну зараду?
+7. U koju zonu pivot tablice bi povukao/povukla polje "Cijena" ako želiš izračunati ukupnu zaradu?
+
 ```
 
 ```{mchoice}
-:answer1: Пивот табела се аутоматски ажурира
-:answer2: Морате обрисати пивот табелу и направити нову
-:answer3: Подаци у пивот табели ће се аутоматски променити
-:answer4: Потребно је десним кликом изабрати опцију Refresh како би се освежили подаци у пивот табели
+:answer1: Pivot tablica se automatski ažurira
+:answer2: Morate obrisati pivot tablicu i izraditi novu
+:answer3: Podaci u pivot tablici automatski će se promijeniti
+:answer4: Potrebno je desnim klikom odabrati opciju Refresh kako bi se osvježili podaci u pivot tablici
 :correct: 4
 
-8. Шта се дешава ако промените вредности у изворној табели након што сте већ направили пивот табелу?
+8. Što se događa ako promijenite vrijednosti u izvornoj tablici nakon što ste već izradili pivot tablicu?
+
 ```
 
 ```{mchoice}
-:answer1: Табела не сме да садржи бројеве веће од 1.000.000
-:answer2: Све колоне у табели морају да имају јединствена и јасна заглавља
-:answer3: Табела мора имати најмање 1000 редова
-:answer4: Сви подаци у табели морају бити исписани великим словима
+:answer1: Tablica ne smije sadržavati brojeve veće od 1.000.000
+:answer2: Svi stupci u tablici moraju imati jedinstvena i jasna zaglavlja
+:answer3: Tablica mora imati najmanje 1000 redaka
+:answer4: Svi podaci u tablici moraju biti ispisani velikim slovima
 :correct: 2
 
-9. Који је основни предустлов да би табела могла успешно да се претвори у пивот табелу?
+9. Koji je osnovni preduvjet da bi se tablica mogla uspješno pretvoriti u pivot tablicu?
+
 ```
 
 ```{mchoice}
-:answer1: Редови (Rows)
-:answer2: Колоне (Columns)
-:answer3: Вредности (Values)
-:answer4: Филтери (Filters)
+:answer1: Retci (Rows)
+:answer2: Stupci (Columns)
+:answer3: Vrijednosti (Values)
+:answer4: Filtri (Filters)
 :correct: 1
 
-10. Ако желите да видите листу свих градова вертикално на левој страни твоје анализе, у коју зону ћете превући поље "Град"?
+10. Ako želite vidjeti popis svih gradova okomito na lijevoj strani svoje analize, u koju zonu ćete povući polje "Grad"?
+
 ```
 
 ```{mchoice}
-:answer1: Брише их јер не препознаје бројеве
-:answer2: Сабира их као да су бројеви
-:answer3: Пребацује их у формат датума
-:answer4: Броји колико се пута тај текст појављује (Count)
+:answer1: Briše ih jer ne prepoznaje brojeve
+:answer2: Zbraja ih kao da su brojevi
+:answer3: Pretvara ih u format datuma
+:answer4: Broji koliko se puta taj tekst pojavljuje (Count)
 :correct: 4
 
-11. Шта по основним подешавањима ради поље "Values" са текстуалним подацима?
+11. Što po zadanim postavkama radi polje "Values" s tekstualnim podacima?
+
 ```
 
 ```{mchoice}
-:answer1: За приказ расподеле буџета по департманима компаније
-:answer2: Када имамо само један податак који желимо да истакнемо
-:answer3: За поређење висине плате запослених у једном тренутку
-:answer4: За приказ кретања температуре или продаје кроз месеце и године
+:answer1: Za prikaz raspodjele proračuna po odjelima tvrtke
+:answer2: Kada imamo samo jedan podatak koji želimo istaknuti
+:answer3: Za usporedbu visine plaće zaposlenika u jednom trenutku
+:answer4: Za prikaz kretanja temperature ili prodaje kroz mjesece i godine
 :correct: 4
 
-12. Када је најбоље користити линијски графикон?
+12. Kada je najbolje koristiti linijski grafikon?
+
 ```
 
 ```{mchoice}
-:answer1: Служи за сортирање података од А до Z
-:answer2: Омогућава промену боје текста у табели
-:answer3: Служи за атоматско брисање дупликата из табеле
-:answer4: Омогућава да привремено сакријемо све податке осим оних који припадају одређеној категорији
+:answer1: Služi za sortiranje podataka od A do Z
+:answer2: Omogućuje promjenu boje teksta u tablici
+:answer3: Služi za automatsko brisanje duplikata iz tablice
+:answer4: Omogućuje da privremeno sakrijemo sve podatke osim onih koji pripadaju određenoj kategoriji
 :correct: 4
 
-13. Шта омогућава зона Filters (филтери) у пивот табели?
+13. Što omogućuje zona Filters (filtri) u pivot tablici?
+
 ```
 
 ```{mchoice}
-:answer1: Да, то се подешава у опцијама поља Values (вредности)
-:answer2: Не, за просек мора да се пише ручно формула поред пивот табеле
-:answer3: Не, пивот табеле могу искључиво да сабирају вредности
-:answer4: Да, али само ако су све вредности позитивне
+:answer1: Da, to se postavlja u opcijama polja Values (vrijednosti)
+:answer2: Ne, za prosjek se mora ručno pisati formula pokraj pivot tablice
+:answer3: Ne, pivot tablice mogu isključivo zbrajati vrijednosti
+:answer4: Da, ali samo ako su sve vrijednosti pozitivne
 :correct: 1
 
-14. Да ли пивот табела може да израчуна просек уместо суме?
+14. Može li pivot tablica izračunati prosjek umjesto zbroja?
+
 ```

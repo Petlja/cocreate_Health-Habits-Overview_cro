@@ -1,42 +1,57 @@
-# Креативни задатак - дизајнирајте кампању!
+# Kreativni zadatak - dizajnirajte kampanju!
 
+## Opis zadatka
 
-## Опис задатка
+Nakon provedene ankete o zdravim navikama učenika i analize prikupljenih podataka, vaš zadatak je da odaberete jedan rezultat i prikažete ga kroz kreativnu kampanju.
 
-Након спроведене анкете о здравим навикама ученика и анализе прикупљених података, ваш задатак је да изаберете један резултат и прикажете га кроз креативну кампању.
+- Analizirajte podatke primjenom pivot tablica i grafikona i izdvojite jednu ili više činjenica koje smatrate važnima
 
-- Анализирајте податке применом пивот табела и графика и издвојте једну или више чињеница које сматрате значајним
-- Осмислите слоган (кратак, јасан, позитиван)
-- Направите инфографику
-- Презентујте резултат одељењу
+- Osmislite slogan (kratak, jasan, pozitivan)
+
+- Napravite infografiku
+
+- Prezentirajte rezultat razredu
+
 
 ![Kampanja](kampanja.png)
 
 ```{infonote}
-Подсетник за добру сарадњу у групи
+Podsjetnik za dobru suradnju u grupi
 
-- Слушамо једни друге.
-- Свако има прилику да допринесе.
-- Делимо задатке договором.
-- Одлуке доносимо заједно.
-- Помажемо једни другима.
+- Slušamo jedni druge.
+- Svatko ima priliku doprinijeti.
+- Zadatke dijelimo dogovorom.
+- Odluke donosimo zajedno.
+- Pomažemo jedni drugima.
 ```
 
-## Савети за добар визуелни приказ података (инфографику)
-- Боје: 2–3 максимално (црвена, зелена, плава/сива)
-- Типографија: слоган највећи, бројеви средње величине, објашњење најмање
-- График: увек укључити пивот график
-- Позив на акцију: конкретан корак
+## Savjeti za dobar vizualni prikaz podataka (infografiku)
 
-## Критеријуми оцењивања
-- Тачност података – 30 бодова
-- Јасноћа поруке – 25 бодова
-- Креативност слогана – 20 бодова
-- Визуелни дизајн – 15 бодова
-- Презентација – 10 бодова
+- Boje: 2–3 maksimalno (crvena, zelena, plava/siva)
+
+- Tipografija: slogan najveći, brojevi srednje veličine, objašnjenje najmanje
+
+- Grafikon: uvijek uključiti pivot grafikon
+
+- Poziv na akciju: konkretan korak
 
 
-## Линк ка месту за постављање урађених инфографика
+## Kriteriji ocjenjivanja
 
-[Погледај радове или постави свој рад](https://shorturl.at/wG4WQ)
+- Točnost podataka – 30 bodova
+
+- Jasnoća poruke – 25 bodova
+
+- Kreativnost slogana – 20 bodova
+
+- Vizualni dizajn – 15 bodova
+
+- Prezentacija – 10 bodova
+
+
+## Link do mjesta za postavljanje izrađenih infografika
+
+
+[Pogledaj radove ili postavi svoj rad](https://shorturl.at/wG4WQ)
+
 
