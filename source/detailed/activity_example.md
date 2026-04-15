@@ -1,5 +1,5 @@
-# Example
+# Primjer
 
-This is a sample lecture in the Details (also you can rename this) section.
+Ovo je primjer lekcije u odjeljku Details (također ga možete preimenovati).
 
-You can use this file to add more in-depth explanations, examples, or exercises for your course.
+Možete koristiti ovu datoteku za dodavanje detaljnijih objašnjenja, primjera ili vježbi za svoj tečaj.

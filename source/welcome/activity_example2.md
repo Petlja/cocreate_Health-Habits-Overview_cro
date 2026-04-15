@@ -1,6 +1,6 @@
-# Example Lecture 2
+# Primjer predavanja 2
 
-This is another example lecture in English.
+Ovo je još jedan primjer predavanja na engleskom jeziku.
 
-Use this space to add more sample content, explanations, or exercises for your course.
+Iskoristite ovaj prostor za dodavanje više primjera sadržaja, objašnjenja ili vježbi za svoj tečaj.
 
