@@ -1,65 +1,97 @@
-# Прилози
+# Prilozi
 
-## Питања за ученике о сарадњи током израде задатка
+## Pitanja za učenike o suradnji tijekom izrade zadatka
 
-### Функционисање групе (1–5)
+### Funkcioniranje grupe (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
 
-✔️ Сви чланови групе су активно учествовали у задатку  
-✔️ Слушали смо једни друге и поштовали свачије идеје  
-✔️ Одговорности смо поделили равноправно  
-✔️ Одлуке смо доносили заједно као тим  
-✔️ Пружали смо подршку једни другима када је некоме била потребна помоћ  
+*(1 – uopće se ne slažem | 5 – u potpunosti se slažem)*
 
-### Моје учешће - питања за ученике (1–5)
+✔️ Svi članovi grupe su aktivno sudjelovali u zadatku  
+✔️ Slušali smo jedni druge i poštovali svačije ideje  
+✔️ Odgovornosti smo podijelili ravnopravno  
+✔️ Odluke smo donosili zajedno kao tim  
+✔️ Pružali smo podršku jedni drugima kada je nekome bila potrebna pomoć  
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+### Moje sudjelovanje - pitanja za učenike (1–5)
 
-✔️ Износио/износила сам своје идеје и мишљење  
-✔️ Учествовао/учествовала сам у изради пивот табела  
-✔️ Учествовао/учествовала сам у изради графикона  
-✔️ Учествовао/учествовала сам у припреми закључака  
-✔️ Учествовао/учествовала сам у презентацији наше групе  
 
-### Чек-листа за наставнике о сарадњи током израде задатка
+*(1 – uopće se ne slažem | 5 – u potpunosti se slažem)*
 
-✔️ сви ученици имају улогу  
-✔️ постоји договор унутар групе  
-✔️ ученици образлажу своје одлуке  
-✔️ помажу једни другима  
-✔️ равномерно користе дигитални алат
+✔️ Iznosio/iznosila sam svoje ideje i mišljenje  
+✔️ Sudjelovao/sudjelovala sam u izradi pivot tablica  
+✔️ Sudjelovao/sudjelovala sam u izradi grafikona  
+✔️ Sudjelovao/sudjelovala sam u pripremi zaključaka  
+✔️ Sudjelovao/sudjelovala sam u prezentaciji naše grupe  
 
-### Предлози питања за анкету о здравим навикама 
+### Ček-lista za nastavnike o suradnji tijekom izrade zadatka
 
-(**НАПОМЕНА: Анкета мора бити потпуно АНОНИМНА!**)
 
-- Пол
-- Који си разред?
-- Колико сати у просеку спаваш у току ноћи?
-- Колико се одморно осећаш у току дана? (1-5)
-- Колико времена дневно користиш телефон?
-- Колико сати укупно проведеш гледајући у екран током дана? (ТВ + рачунар + телефон, унеси број сати)
-- Када најчешће користиш телефон?
-- За шта најчешће користиш телефон?
-- Да ли се бавиш спортом / редовно вежбаш?
-- Ако вежбаш, колико сати? (унеси број сати у току недеље)
-- Како се најчешће крећеш током дана?
-- Колико често возиш бицикл? (унеси број пута у току недеље)
-- Колико се дневно крећеш? (унеси број минута)
-- Да ли редовно доручкујеш?
-- Да ли имаш кућног љубимца?
-- Колико порција воћа у просеку поједеш у току недеље?
-- Колико често једеш слаткише или грицкалице? (унеси број пута у току недеље)
-- Колико воде попијеш дневно? (у литрама)
-- Колико се често смејеш? (1-5)
-- Како би оценио/оценила своје најчешће расположење? (1-5)
-- често се виђаш са другарима изван школе? (1-5)
-- Коју би навику највише волео/волела да побољшаш?
-- Колико важним сматраш за здрав и квалитетнији живот [довољно сна]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [мање времена на телефону]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [здрава исхрана]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [редовна физичка активност]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [добро расположење]? (1-5)
-- Да ли често боравиш у природи?
+✔️ svi učenici imaju ulogu  
+✔️ postoji dogovor unutar grupe  
+✔️ učenici obrazlažu svoje odluke  
+✔️ pomažu jedni drugima  
+✔️ ravnomjerno koriste digitalni alat
+
+### Prijedlozi pitanja za anketu o zdravim navikama 
+ 
+
+(**NAPOMENA: Anketa mora biti potpuno ANONIMNA!**)
+
+- Spol
+
+- Koji si razred?
+
+- Koliko sati u prosjeku spavaš tijekom noći?
+
+- Koliko se odmorno osjećaš tijekom dana? (1-5)
+
+- Koliko vremena dnevno koristiš telefon?
+
+- Koliko sati ukupno provedeš gledajući u ekran tijekom dana? (TV + računalo + telefon, unesi broj sati)
+
+- Kada najčešće koristiš telefon?
+
+- Za što najčešće koristiš telefon?
+
+- Baviš li se sportom / redovito vježbaš?
+
+- Ako vježbaš, koliko sati? (unesi broj sati tijekom tjedna)
+
+- Kako se najčešće krećeš tijekom dana?
+
+- Koliko često voziš bicikl? (unesi broj puta tijekom tjedna)
+
+- Koliko se dnevno krećeš? (unesi broj minuta)
+
+- Doručkuješ li redovito?
+
+- Imaš li kućnog ljubimca?
+
+- Koliko porcija voća u prosjeku pojedeš tijekom tjedna?
+
+- Koliko često jedeš slatkiše ili grickalice? (unesi broj puta tijekom tjedna)
+
+- Koliko vode popiješ dnevno? (u litrama)
+
+- Koliko se često smiješ? (1-5)
+
+- Kako bi ocijenio/ocijenila svoje najčešće raspoloženje? (1-5)
+
+- Često se viđaš s prijateljima izvan škole? (1-5)
+
+- Koju bi naviku najviše volio/voljela poboljšati?
+
+- Koliko važnim smatraš za zdrav i kvalitetniji život [dovoljno sna]? (1-5)
+
+- Koliko važnim smatraš za zdrav i kvalitetniji život [manje vremena na telefonu]? (1-5)
+
+- Koliko važnim smatraš za zdrav i kvalitetniji život [zdrava prehrana]? (1-5)
+
+- Koliko važnim smatraš za zdrav i kvalitetniji život [redovita tjelesna aktivnost]? (1-5)
+
+- Koliko važnim smatraš za zdrav i kvalitetniji život [dobro raspoloženje]? (1-5)
+
+- Boraviš li često u prirodi?
+
 
