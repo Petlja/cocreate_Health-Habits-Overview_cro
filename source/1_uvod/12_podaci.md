@@ -1,21 +1,21 @@
-# Прикупљање података
+# Prikupljanje podataka
 
-## Одакле долазе подаци?
+## Odakle dolaze podaci?
 
-Пре него што започнемо било какву анализу, први корак је прикупљање података. Без квалитетних података не можемо доћи ни до поузданих закључака. Постоји неколико основних начина да до њих дођемо:
+Prije nego što započnemo bilo kakvu analizu, prvi korak je prikupljanje podataka. Bez kvalitetnih podataka ne možemo doći ni do pouzdanih zaključaka. Postoji nekoliko osnovnih načina da do njih dođemo:
 
-- **Анкета** (упитник) - истa питања постављамо већем броју људи и бележимо њихове одговоре. Ово је најчешћи метод у друштвеним истраживањима.
+- **Anketa** (upitnik) - ista pitanja postavljamo većem broju ljudi i bilježimo njihove odgovore. Ovo je najčešća metoda u društvenim istraživanjima.
 
-- **Посматрање** - пратимо шта се дешава и бележимо појаве без утицаја на њих (на пример, бројимо колико особа улази у просторију).
+- **Promatranje** - pratimo što se događa i bilježimo pojave bez utjecaja na njih (na primjer, brojimo koliko osoba ulazi u prostoriju).
 
-- **Мерење** - користимо инструменте како бисмо добили тачне вредности (температура, висина, маса… ).
+- **Mjerenje** - koristimo instrumente kako bismo dobili točne vrijednosti (temperatura, visina, masa… ).
 
-- **Експеримент** - намерно мењамо један фактор и пратимо како се то одражава на резултате.
+- **Eksperiment** - namjerno mijenjamo jedan faktor i pratimo kako se to odražava na rezultate.
 
 ![Prikupljanje podataka](images/podaci.png)
 
-Током прикупљања података, најчешће добијамо велику количину појединачних вредности, које саме по себи још увек немају јасно значење. У том облику тешко је да их разумемо, упоредимо или из њих уочимо неке правилности. Зато је важно да их добро организујемо и јасно представимо. 
+Tijekom prikupljanja podataka najčešće dobivamo veliku količinu pojedinačnih vrijednosti koje same po sebi još uvijek nemaju jasno značenje. U tom obliku teško ih je razumjeti, usporediti ili iz njih uočiti neke pravilnosti. Zato je važno da ih dobro organiziramo i jasno prikažemo.
 
 ```{infonote}
-Тек када податке средимо и прикажемо на прегледан начин, они почињу да „говоре“ и постају основа за закључивање.
+Tek kada podatke sredimo i prikažemo na pregledan način, oni počinju „govoriti“ i postaju osnova za zaključivanje.
 ```

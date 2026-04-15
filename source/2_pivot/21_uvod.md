@@ -1,26 +1,32 @@
-# Пивот табеле 
+# Pivot tablice 
 
-Пивот табела је један од најважнијих алата за анализу података у програмима као што су *Microsoft Excel* и *Google Sheets*. Она омогућава да исте податке „окренемо“ (pivot = окренути) и прикажемо их на нов начин - да их групишемо, пребројимо, израчунамо просеке или упоредимо категорије, без мењања оригиналне табеле. Уместо ручног пребројавања и прављења више помоћних табела, пивот табела омогућава да се одговори добију брзо, прецизно и прегледно. 
+Pivot tablica jedan je od najvažnijih alata za analizu podataka u programima kao što su *Microsoft Excel* i *Google Sheets*. Ona omogućuje da iste podatke „okrenemo“ (pivot = okrenuti) i prikažemo ih na novi način - da ih grupiramo, prebrojimo, izračunamo prosjeke ili usporedimo kategorije, bez mijenjanja izvorne tablice. Umjesto ručnog prebrojavanja i izrade više pomoćnih tablica, zaokretna tablica omogućuje da se odgovori dobiju brzo, precizno i pregledno. 
 
 ```{infonote}
-У кошарци, пивот је играч који једном ногом остаје на месту, а окретањем тела може да дода лопту у различитим правцима. Слично томе, пивот табела користи исте податке, али их „окреће“ и реорганизује тако да их можемо посматрати из различитих углова, у зависности од тога шта желимо да сазнамо.
+U košarci, pivot je igrač koji jednom nogom ostaje na mjestu, a okretanjem tijela može dodati loptu u različitim smjerovima. Slično tome, zaokretna tablica koristi iste podatke, ali ih „okreće“ i reorganizira tako da ih možemo promatrati iz različitih kutova, ovisno o tome što želimo saznati.
+
 ```
-Радница у продавници воћа сваког дана бележи сваку продају у табели. За сваку куповину записала је следеће податке:
+Radnica u prodavaonici voća svakoga dana bilježi svaku prodaju u tablicu. Za svaku kupnju zabilježila je sljedeće podatke:
+
 
 ![Tabela - prodaja voća](images/table2_sr.png)
 
-Ово су сирови подаци. Из њих не можемо одмах да добијемо одговор на питање, на пример, *Које воће се највише продаје?* или *Да ли купци чешће плаћају готовином или картицом?*
+Ovo su sirovi podaci. Iz njih ne možemo odmah dobiti odgovor na pitanje, na primjer, *Koje se voće najviše prodaje?* ili *Plaćaju li kupci češće gotovinom ili karticom?*
 
-## Разлика између обичне и пивот табеле
+## Razlika između obične i pivot tablice
 
-У обичној табели можемо да видимо сваку појединачну продају, али ако желимо да сазнамо, на пример, укупну количину продатог воћа сваке врсте, морали бисмо ручно да пронађемо све редове са јабукама и саберемо количине, затим банане, па поморанџе... Код већег броја редова то одузима време и лако долази до грешке.
+U običnoj tablici možemo vidjeti svaku pojedinačnu prodaju, ali ako želimo saznati, na primjer, ukupnu količinu prodanog voća svake vrste, morali bismo ručno pronaći sve retke s jabukama i zbrojiti količine, zatim banane, pa naranče... Kod većeg broja redaka to oduzima vrijeme i lako dolazi do pogreške.
 
-**Пивот табела аутоматски организује и сабира податке.** На пример:
+
+**Zaokretna tablica automatski organizira i zbraja podatke.** Na primjer:
+
 
 ![Pivot tabela - prodaja voća](images/table3_sr.png)
 
-Овакав приказ омогућава да одмах видимо резултате, без ручног сабирања и без формула.
+Ovakav prikaz omogućuje da odmah vidimo rezultate, bez ručnog zbrajanja i bez formula.
+
 
 ```{infonote}
-Обична табела приказује појединачне податке. Пивот табела приказује њихов преглед и омогућава анализу.
+Obična tablica prikazuje pojedinačne podatke. Zaokretna tablica prikazuje njihov pregled i omogućuje analizu.
+
 ```
