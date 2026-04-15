@@ -1,35 +1,52 @@
-# Да резимирамо...
+# Da rezimiramo...
 
-## Предности коришћења пивота
 
-- **Брзина анализе** - Уместо ручног сабирања и писања формула, довољно је да превучемо поља и одмах добијамо збир, просек, број или проценат.
+## Prednosti korištenja pivota
 
-- **Флексибилност** - Исте податке можемо да посматрамо по различитим критеријумима (нпр. по данима, по производима, по одељењима) без прављења нових табела.
 
-- **Нема ручних формула** - Пивот табела сама прави прорачуне, што смањује могућност грешке.
+- **Brzina analize** - Umjesto ručnog zbrajanja i pisanja formula, dovoljno je da povučemo polja i odmah dobivamo zbroj, prosjek, broj ili postotak.
 
-- **Аутоматско ажурирање** - Када се промене подаци у почетној табели, довољно је кликнути на *Refresh* и сви резултати се аутоматски ажурирају.
 
-- **Једноставно филтрирање података** - Можемо приказати само део података који нас занима (нпр. једно одељење, један производ, један дан).
+- **Fleksibilnost** - Iste podatke možemo promatrati prema različitim kriterijima (npr. po danima, po proizvodima, po odjelima) bez izrade novih tablica.
 
-- **Директна визуелизација** - Из пивот табеле се једним кликом прави графикон који се такође аутоматски ажурира.
 
-- **Откривање образаца** - Лако уочавамо шта је највише заступљено, где је највећа вредност, како се подаци мењају кроз време.
+- **Nema ručnih formula** - Pivot tablica sama radi izračune, što smanjuje mogućnost pogreške.
 
-- **Професионални алат** - Пивот се користи у фирмама за анализу продаје, трошкова, резултата анкета и других великих скупова података.
 
-## Честе грешке
+- **Automatsko osvježavanje** - Kada se promijene podaci u početnoj tablici, dovoljno je kliknuti na *Refresh* i svi rezultati se automatski osvježavaju.
 
-Да би резултати били тачни, важно је да избегнемо грешке. Приликом креирања пивот табеле, обавезно обратите пажњу на следеће:
 
-- **Недоследно писање вредности** - Исти податак написан на различите начине (нпр. Јабука, јабука, Jabuka) биће приказан као три различите ставке.
+- **Jednostavno filtriranje podataka** - Možemo prikazati samo dio podataka koji nas zanima (npr. jedno odjeljenje, jedan proizvod, jedan dan).
 
-- **Недостају називи колона** - Без јасних назива пивот табела не зна шта треба да анализира.
 
-- **Ручно мењање пивот табеле** - Унутар пивот табеле не сме се додатно ништа уписивати – све промене се раде у почетној табели.
+- **Izravna vizualizacija** - Iz pivot tablice se jednim klikom izrađuje grafikon koji se također automatski osvježava.
 
-- **Заборављено освежавање (*Refresh*)** - После измене података потребно је кликнути на Refresh да би резултати били тачни.
+
+- **Otkrivanje obrazaca** - Lako uočavamo što je najviše zastupljeno, gdje je najveća vrijednost, kako se podaci mijenjaju kroz vrijeme.
+
+
+- **Profesionalni alat** - Pivot se koristi u tvrtkama za analizu prodaje, troškova, rezultata anketa i drugih velikih skupova podataka.
+
+
+## Česte pogreške
+
+
+Da bi rezultati bili točni, važno je da izbjegnemo pogreške. Prilikom kreiranja pivot tablice, obratite pažnju na sljedeće:
+
+
+- **Nedosljedno pisanje vrijednosti** - Isti podatak napisan na različite načine (npr. Jabuka, jabuka, Jabuka) bit će prikazan kao tri različite stavke.
+
+
+- **Nedostaju nazivi stupaca** - Bez jasnih naziva pivot tablica ne zna što treba analizirati.
+
+
+- **Ručno mijenjanje pivot tablice** - Unutar pivot tablice ne smije se dodatno ništa upisivati – sve promjene rade se u početnoj tablici.
+
+
+- **Zaboravljeno osvježavanje (*Refresh*)** - Nakon izmjene podataka potrebno je kliknuti na Refresh kako bi rezultati bili točni.
+
 
 ```{infonote}
-Анализа података коришћењем пивот табела и графика не само да штеди време и смањује грешке, већ нам омогућава да тренутно уочимо важне информације, донесемо прецизне закључке и ефикасно представимо резултате чак и из веома великог скупа података.
+Analiza podataka korištenjem pivot tablica i grafikona ne samo da štedi vrijeme i smanjuje pogreške, već nam omogućuje da odmah uočimo važne informacije, donesemo precizne zaključke i učinkovito predstavimo rezultate čak i iz vrlo velikog skupa podataka.
+
 ```

@@ -1,7 +1,8 @@
 ---
 status: exclude
 ---
-# Пивот табеле
+# Pivot tablice
+
 
 ```{toctree}
 :maxdepth: 2

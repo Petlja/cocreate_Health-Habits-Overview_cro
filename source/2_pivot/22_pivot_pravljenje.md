@@ -1,72 +1,79 @@
-# Како направити пивот табелу?
+# Kako napraviti pivot tablicu?
+
 
 ```{infonote}
-**Четири основна елемента пивот табеле**
+**Četiri osnovna elementa pivot tablice**
 
-- **Редови (*Rows*)** - Категорије које се приказују са леве стране табеле.
-- **Колоне (*Columns*)** - Категорије које се приказују у горњем делу табеле.
-- **Вредности (*Values*)** - Бројеви који се израчунавају (збир, број, просек…).
-- **Филтери (*Filters*)** - Омогућавају приказ само дела података.
+- **Redovi (*Rows*)** - Kategorije koje se prikazuju s lijeve strane tablice.
+- **Stupci (*Columns*)** - Kategorije koje se prikazuju u gornjem dijelu tablice.
+- **Vrijednosti (*Values*)** - Brojevi koji se izračunavaju (zbroj, broj, prosjek…).
+- **Filtri (*Filters*)** - Omogućuju prikaz samo dijela podataka.
 ```
 
-## Креирање пивот табеле - корак по корак
+## Kreiranje pivot tablice - korak po korak
 
-### Корак 1: Означите табелу са подацима
-Кликните на било коју ћелију табеле и на тастатури притисните комбинацију тастера *Ctrl + A*
+### Korak 1: Označite tablicu s podacima
+Kliknite na bilo koju ćeliju tablice i na tipkovnici pritisnite kombinaciju tipki *Ctrl + A*
+
 
 ![Korak 1](images/pivot1_sr.png)
 
-### Корак 2: Покрените креирање пивот табеле
-Кликните на *Insert* (1), *PivotТable* (2) и изаберите опцију *From Table/Range* (3)
+### Korak 2: Pokrenite kreiranje pivot tablice
+Kliknite na *Insert* (1), *PivotТable* (2) i odaberite opciju *From Table/Range* (3)
 
 ![Korak 2](images/pivot2_sr.png)
 
-### Корак 3: Изаберите где желите да се нађе ваша пивот табела
-Можете да изаберете нови радни лист (*New Worksheet*) или локацију на истом радном листу (*Existing Worksheet*) (4) (у том случају потребно је да кликнете на ћелију у оквиру које ће се наћи горњи леви угао ваше пивот табеле) (5). Потврдите кликом на *Ok*. (6)
+### Korak 3: Odaberite gdje želite da se nalazi vaša pivot tablica
+Možete odabrati novi radni list (*New Worksheet*) ili lokaciju na istom radnom listu (*Existing Worksheet*) (4) (u tom slučaju potrebno je da kliknete na ćeliju unutar koje će se nalaziti gornji lijevi ugao vaše pivot tablice) (5). Potvrdite klikom na *Ok*. (6)
 
 ![Korak 3](images/pivot3_sr.png)
 
-### Корак 4: Упознајте едитор пивот табела
-Подешавања пивот табеле вршите превлачењем поља (7) у одређене зоне (8).
+### Korak 4: Upoznajte uređivač pivot tablica
+Postavke pivot tablice vršite povlačenjem polja (7) u određene zone (8).
 
 ![Korak 4](images/pivot4_sr.png)
 
-### Корак 5: Додајте редове (*Rows*) и вредности (*Values*)
-За први пример из увода у зону *Rows* превукли смо поље *воће*. У зону *Values* превукли смо поље *количина [kg]*
+### Korak 5: Dodajte retke (*Rows*) i vrijednosti (*Values*)
+Za prvi primjer iz uvoda u zonu *Rows* povukli smo polje *voće*. U zonu *Values* povukli smo polje *količina [kg]*
 
 ![Korak 5](images/pivot5_sr.png)
 
-
 ```{infonote}
-Начин израчунавања у области Values можемо променити преко опције Value Field Settings. Поред подразумеваног збира (Sum), доступни су и Average (просек), Count (број уноса), Min и Max. Важно је знати да ће, уколико се у област Values постави текстуално поље, пивот табела уместо збира аутоматски приказати број појављивања тог текста (Count).
+Način izračuna u području Values možemo promijeniti preko opcije Value Field Settings. Osim zadanog zbroja (Sum), dostupni su i Average (prosjek), Count (broj unosa), Min i Max. Važno je znati da će, ako se u područje Values postavi tekstualno polje, pivot tablica umjesto zbroja automatski prikazati broj pojavljivanja tog teksta (Count).
+
 ```
 
-### Корак 7: Додајте колоне (опционо)
-Табелу у којој се види и на који начин су купци плаћали добили смо додавањем поља *начин плаћања* у зону Колоне (*Columns*) (10)
+### Korak 7: Dodajte stupce (opcionalno)
+Tablicu u kojoj se vidi i na koji način su kupci plaćali dobili smo dodavanjem polja *način plaćanja* u zonu Stupci (*Columns*) (10)
 
 ![Korak 6](images/pivot6_sr.png)
 
 ```{infonote}
-Уколико се деси да вам се затворио прозор са десне стране који омогућава подешавање приказа пивот табеле, можете га поново отворити тако што ћете кликнути на било коју ћелију пивот табеле и изабрати опцију Show field list.
+Ako se dogodi da vam se zatvori prozor s desne strane koji omogućuje podešavanje prikaza pivot tablice, možete ga ponovno otvoriti tako da kliknete na bilo koju ćeliju pivot tablice i odaberete opciju Show field list.
+
 ```
-### Корак 8: Додајте филтере (опционо)
-Додавање филтера омогућиће вам да из велике количине података брзо издвојите и прикажете само оне вредности које су вам у датом тренутку потребне, без измене почетне табеле и додатних прорачуна. 
+### Korak 8: Dodajte filtre (opcionalno)
+Dodavanje filtara omogućit će vam da iz velike količine podataka brzo izdvojite i prikažete samo one vrijednosti koje su vam u danom trenutku potrebne, bez izmjene početne tablice i dodatnih izračuna. 
+ 
 
 ```{infonote}
-Иако је пивот табела повезана са оригиналном табелом, измене у њој се не ажурирају аутоматски. Након сваке измене потребно је десним кликом на пивот табелу изабрати опцију Refresh, како би се сви резултати освежили.
+Iako je pivot tablica povezana s originalnom tablicom, izmjene u njoj se ne ažuriraju automatski. Nakon svake izmjene potrebno je desnim klikom na pivot tablicu odabrati opciju Refresh, kako bi se svi rezultati osvježili.
+
 ```
-## Пивот графикон
+## Pivot grafikon
 
-Подаци из пивот табеле могу се приказати и графички. На тај начин резултати постају прегледнији и лакше се уочавају разлике и односи.
+Podaci iz pivot tablice mogu se prikazati i grafički. Na taj način rezultati postaju pregledniji i lakše se uočavaju razlike i odnosi.
 
-Пивот графикон се прави на следећи начин:
+Pivot grafikon se izrađuje na sljedeći način:
 
-Кликните унутар пивот табеле и из менија изаберите опцију *PivotChart*. Одаберите тип графикона и потврдите избор.
+Kliknite unutar pivot tablice i iz izbornika odaberite opciju *PivotChart*. Odaberite vrstu grafikona i potvrdite izbor.
+
 
 ![Pivot grafikon](images/chart1_sr.png)
 
 ```{infonote}
-Графикон је повезан са пивот табелом, што значи да се свака промена у табели аутоматски приказује и на графикону. Приликом графичког приказа, предности примене филтера посебно долазе до изражаја.
+Grafikon je povezan s pivot tablicom, što znači da se svaka promjena u tablici automatski prikazuje i na grafikonu. Prilikom grafičkog prikaza, prednosti primjene filtara posebno dolaze do izražaja.
+
 ```
 
 ![Pivot grafikon](images/chart2_sr.png)
