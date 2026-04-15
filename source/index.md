@@ -36,7 +36,7 @@ This course is published by Petlja Foundation under the
 
 ```{toctree}
 :maxdepth: 2
-:caption: Садржај
+:caption: Sadržaj
 
 1_uvod/index
 2_pivot/index
