@@ -43,7 +43,7 @@ Način izračuna u području Values možemo promijeniti preko opcije Value Field
 
 ```
 
-### Korak 7: Dodajte stupce (opcionalno)
+### Korak 6: Dodajte stupce (opcionalno)
 Tablicu u kojoj se vidi i na koji način su kupci plaćali dobili smo dodavanjem polja *način plaćanja* u zonu Stupci (*Columns*) (10)
 
 ![Korak 6](images/pivot6_sr.png)
@@ -52,7 +52,7 @@ Tablicu u kojoj se vidi i na koji način su kupci plaćali dobili smo dodavanjem
 Ako se dogodi da vam se zatvori prozor s desne strane koji omogućuje podešavanje prikaza pivot tablice, možete ga ponovno otvoriti tako da kliknete na bilo koju ćeliju pivot tablice i odaberete opciju Show field list.
 
 ```
-### Korak 8: Dodajte filtre (opcionalno)
+### Korak 7: Dodajte filtre (opcionalno)
 Dodavanje filtara omogućit će vam da iz velike količine podataka brzo izdvojite i prikažete samo one vrijednosti koje su vam u danom trenutku potrebne, bez izmjene početne tablice i dodatnih izračuna. 
  
 
