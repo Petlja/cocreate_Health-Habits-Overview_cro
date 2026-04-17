@@ -1,6 +1,7 @@
 ﻿---
 status: exclude
 alias: cocreate-health-habits_cro
+lang: en
 short_description: Analiza podataka o zdravim navikama
 long_description: >
     <p>Ovaj kurs uvodi učenike u analizu podataka pomoću pivot tablica i pivot grafikona. Kroz praktičan rad na računalu, učenici uče kako organizirati, grupirati, filtrirati i vizualno prikazati podatke, kao i kako iz njih izvesti zaključke. Tijekom kursa učenici će uočiti razlike između običnih i pivot tablica i grafikona te postupno razvijati sigurnost u analizi podataka kroz suradnički rad...</p>
