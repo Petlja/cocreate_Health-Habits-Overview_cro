@@ -5,7 +5,7 @@
 **Potrebno vrijeme:** 2 školska sata (90 minuta)
 
 ### Ciljevi
-- Razvijanje sposobnosti analize podataka pomoću pivot tablica u programu Microsoft Excel.
+- Razvijanje sposobnosti analize podataka pomoću pivot (zaokretnih) tablica u programu Microsoft Excel.
 - Stjecanje vještina vizualizacije podataka pomoću grafikona.
 - Vrednovanje i izbor najučinkovitijih načina za vizualno predstavljanje podataka.
 - Unapređivanje komunikacijskih vještina i timskog rada kroz zajedničko rješavanje problema.
