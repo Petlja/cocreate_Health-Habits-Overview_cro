@@ -1,8 +1,10 @@
-﻿# O lekciji
+# O lekciji
+
+U radu s podacima često nije najveći izazov prikupljanje, već razumijevanje njihovog značenja. Tablice često sadrže i stotine redaka, ali odgovore na pitanja koja nas zaista zanimaju ne vidimo uvijek na prvi pogled. Kako bismo uočili obrasce i donijeli zaključke, trebamo način da brzo organiziramo podatke i promatramo ih iz različitih kutova.
 
 ## Ciljevi, ishodi i vrijeme realizacije
 
-**Potrebno vrijeme:** 2 školska sata (90 minuta)
+**Potrebno vrijeme:** 3 školska sata (135 minuta)
 
 ### Ciljevi
 - Razvijanje sposobnosti analize podataka pomoću pivot (zaokretnih) tablica u programu Microsoft Excel.
@@ -19,14 +21,11 @@ Do kraja ove lekcije učenici će biti u stanju da:
 - uvažavaju različita mišljenja i njeguju konstruktivnu komunikaciju u timu,
 - jasno i samouvjereno predstave grupne zaključke uz podršku vizualizacija podataka.
 
-U radu s podacima često nije najveći izazov prikupljanje, već razumijevanje njihovog značenja. Tablice često sadrže i stotine redaka, ali odgovore na pitanja koja nas zaista zanimaju ne vidimo uvijek na prvi pogled. Kako bismo uočili obrasce, usporedili vrijednosti i donijeli zaključke, potreban nam je način da podatke brzo organiziramo i promatramo iz različitih kutova.
-
-Aktivnost H2O (Health Habits Observation) ima za cilj da kroz primjer koji vam je blizak pokaže kako podatke možete pretvoriti u korisne informacije. Radit ćete sa stvarnim podacima o navikama u prehrani, vježbanju, korištenju telefona, druženju i spavanju, koje ćete sami prikupiti i koristiti pivot tablice i pivot grafikone kako biste ih analizirali i vizualizirali (upitnik za prikupljanje podataka nalazi se u posljednjem bloku – Prilozi). Na taj način vidjet ćete kako isti skup podataka može odgovoriti na različita pitanja – ovisno o tome kako ga organiziramo.
-
+Aktivnost H2O (*Health Habits Observation*) ima za cilj da kroz primjer koji vam je blizak pokaže kako podatke možete pretvoriti u korisne informacije. Radit ćete sa stvarnim podacima o navikama u jenju, vježbanju, korištenju telefona, socijalnim kontaktima i spavanju, koje ćete sami prikupiti i koristiti pivot tablice i pivot grafikone za analizu i vizualizaciju (upitnik za prikupljanje podataka nalazi se u zadnjoj sekciji – Prilozi). Na taj način vidjeti ćete kako isti skup podataka može odgovoriti na različita pitanja – ovisno o tome kako ga organiziramo.
 
 ![Uvodna slika](images/uvod.png)
     
-Osim tehničke vještine, ova aktivnost treba poslužiti i za razvijanje sposobnosti analitičkog razmišljanja poput postavljanja pitanja, izbora načina prikaza podataka i tumačenja rezultata. U suvremenom svijetu, gdje se odluke sve češće temelje na podacima, razumijevanje ovakvih alata predstavlja važan dio digitalne pismenosti.
+Osim tehničke vještine, ova aktivnost trebala bi poslužiti i za razvijanje sposobnosti analitičkog razmišljanja poput postavljanja pitanja, izbora načina prikaza podataka i tumačenja rezultata. U svijetu u kojem su odluke sve više temeljene na podacima, razumijevanje takvih alata važan je dio digitalne pismenosti.
 
 U nastavku ćete naučiti:
 - što je pivot tablica i po čemu se razlikuje od obične tablice,
@@ -37,7 +36,3 @@ U nastavku ćete naučiti:
 ```{infonote}
 Cilj ove lekcije nije samo da napravite pivot tablicu, već da razumijete kako podaci postaju informacija.
 ```
-
-
-
-
