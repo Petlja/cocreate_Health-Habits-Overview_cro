@@ -1,4 +1,4 @@
-# Da ponovimo...
+# Ukratko o zaokretnim tablicama
 
 ## Prednosti korištenja pivota
 
