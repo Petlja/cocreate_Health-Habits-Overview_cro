@@ -1,4 +1,6 @@
-Pitanja za učenike o suradnji tijekom izrade zadatka
+# Evaluacija suradnje
+
+## Pitanja za učenike o suradnji tijekom izrade zadatka
 
 Funkcioniranje grupe (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
