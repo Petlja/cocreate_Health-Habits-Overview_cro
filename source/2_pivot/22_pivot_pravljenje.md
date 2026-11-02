@@ -48,7 +48,7 @@ Tablicu u kojoj se vidi i na koji način su kupci plaćali dobili smo dodavanjem
 ```{infonote}
 Ako se dogodi da vam se zatvori prozor s desne strane koji omogućuje podešavanje prikaza pivot tablice, možete ga ponovno otvoriti tako da kliknete na bilo koju ćeliju pivot tablice i odaberete Show field list.
 ```
-### Korak 7: Dodajte filtre (opcionalno)
+### Korak 7: Dodajte filtre (po želji)
 Dodavanje filtara omogućit će vam da iz velike količine podataka brzo izdvojite i prikažete samo one vrijednosti koje su vam potrebne, bez izmjene početne tablice i dodatnih izračuna.
 
 ```{infonote}
