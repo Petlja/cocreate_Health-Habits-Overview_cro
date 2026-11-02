@@ -24,7 +24,7 @@
 ✔️ Sudjelovao/sudjelovala sam u pripremi zaključaka  
 ✔️ Sudjelovao/sudjelovala sam u prezentaciji naše grupe  
 
-### Ček-lista za nastavnike o suradnji tijekom izrade zadatka
+### Kontrolni popis za nastavnike: suradnja tijekom izrade zadatka
 
 
 ✔️ svi učenici imaju ulogu  
