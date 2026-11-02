@@ -49,9 +49,9 @@ Podsjetnik za dobru suradnju u grupi
 - Prezentacija – 10 bodova
 
 
-## Link do mjesta za postavljanje izrađenih infografika
+```{learnmorenote} Za nastavnike
 
-
-[Pogledaj radove ili postavi svoj rad](https://shorturl.at/wG4WQ)
+Uz upute iz lekcije, učenicima treba jasno reći gdje će i kako predati ili predstaviti rješenje zadatka.
+```
 
 

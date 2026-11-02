@@ -9,4 +9,5 @@ status: exclude
 
 31_kreativni_zadatak
 32_kviz
+33_evaluacija_suradnje
 ```

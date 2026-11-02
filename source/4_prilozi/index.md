@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Prilozi i linkovi
+# Prilozi
 
 
 ```{toctree}
