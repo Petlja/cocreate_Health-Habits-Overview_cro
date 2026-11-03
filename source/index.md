@@ -4,7 +4,7 @@ alias: cocreate-health-habits_cro
 lang: en
 short_description: Analiza i vizualizacija podataka
 long_description: >
-    <p>Ovaj kurs uvodi učenike u analizu podataka pomoću pivot tablica i pivot grafikona. Kroz praktičan rad na računalu, učenici uče kako organizirati, grupirati, filtrirati i vizualno prikazati podatke, kao i kako iz njih izvesti zaključke. Tijekom kursa učenici će uočiti razlike između običnih i pivot tablica i grafikona te postupno razvijati sigurnost u analizi podataka kroz suradnički rad...</p>
+    <p>Ovaa lekcija uvodi učenike u analizu podataka pomoću pivot tablica i pivot grafikona. Kroz praktičan rad na računalu, učenici uče kako organizirati, grupirati, filtrirati i vizualno prikazati podatke, kao i kako iz njih izvesti zaključke. Tijekom lekcije učenici će uočiti razlike između običnih i pivot tablica i grafikona te postupno razvijati sigurnost u analizi podataka kroz suradnički rad...</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
@@ -42,5 +42,5 @@ This course is published by Petlja Foundation under the
 1_uvod/index
 2_pivot/index
 3_zadaci/index
-4_prilozi/index
+4_prilog/index
 ```
