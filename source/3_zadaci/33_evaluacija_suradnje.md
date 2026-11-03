@@ -2,7 +2,7 @@
 
 ## Pitanja za učenike o suradnji tijekom izrade zadatka
 
-Funkcioniranje grupe (1–5)
+## Funkcioniranje grupe (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
 
 ✔️ Svi članovi grupe su aktivno sudjelovali u zadatku
@@ -18,7 +18,7 @@ Funkcioniranje grupe (1–5)
 
 
 
-Moje sudjelovanje - pitanja za učenike (1–5)
+## Moje sudjelovanje - pitanja za učenike (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
 
 
@@ -36,7 +36,7 @@ Moje sudjelovanje - pitanja za učenike (1–5)
 
 
 
-Kontrolni popis za nastavnike: suradnja tijekom izrade zadatka
+## Kontrolni popis za nastavnike: suradnja tijekom izrade zadatka
 
 
 ✔️ svi učenici imaju ulogu
