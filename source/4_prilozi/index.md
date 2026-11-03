@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Prilozi
+# Prilog
 
 
 ```{toctree}
