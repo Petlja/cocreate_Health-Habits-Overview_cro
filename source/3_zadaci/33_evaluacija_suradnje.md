@@ -6,10 +6,15 @@ Funkcioniranje grupe (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
 
 ✔️ Svi članovi grupe su aktivno sudjelovali u zadatku
+
 ✔️ Slušali smo jedni druge i poštovali svačije ideje
+
 ✔️ Odgovornosti smo podijelili ravnopravno
+
 ✔️ Odluke smo donosili zajedno kao tim
+
 ✔️ Pružali smo podršku jedni drugima kada je nekome bila potrebna pomoć
+
 
 Moje sudjelovanje - pitanja za učenike (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
