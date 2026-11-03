@@ -17,6 +17,7 @@ Funkcioniranje grupe (1–5)
 
 
 
+
 Moje sudjelovanje - pitanja za učenike (1–5)
 (1 – uopće se ne slažem | 5 – u potpunosti se slažem)
 
@@ -30,6 +31,8 @@ Moje sudjelovanje - pitanja za učenike (1–5)
 ✔️ Sudjelovao/sudjelovala sam u pripremi zaključaka
 
 ✔️ Sudjelovao/sudjelovala sam u prezentaciji naše grupe
+
+
 
 
 
